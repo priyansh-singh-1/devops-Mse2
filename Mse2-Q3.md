@@ -31,7 +31,7 @@ app.listen(PORT, () => {
 node index.js
 
 ```
-![alt text](image.png)
+![alt text](image---1.png)
 
 ## 3-Initialize a Git repository in the project folder.
 ```bash
